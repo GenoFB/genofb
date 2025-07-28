@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi! I'm Genaro Flores
 
-<!--
-**GenoFB/genofb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm in my final semester of Computer Engineering in Santiago, Chile, and I love transforming challenges into simple, practical solutions. I’m seeking remote or hybrid internship opportunities where I can keep learning, grow my skills, and contribute with enthusiasm.
 
-Here are some ideas to get you started:
+💼 When I'm not coding, you'll find me enjoying a good coffee alongside my and cats, my favorite productivity booster. (I love Dogs too!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Skills
+
+- **Languages:** JavaScript · HTML · CSS · Python · Bash
+- **Frameworks/Libraries:** React · Node.js · Express · Django
+- **Databases:** PostgreSQL · PL/SQL · MongoDB
+- **Tools:** Git/GitHub · Webflow · Playwright (basic testing) · Selenium
+
+---
+
+## 🚀 Key Experience
+
+### 🌐 Therapist Website (Freelance · 2025)
+- Implemented form with validation and data submission.
+- Optimized the front-end for readability and responsiveness.
+- Configured domain and deployment on Webflow.
+
+### 📚 Reservation Management App (Duoc UC · Internship 2024)
+- Frontend in React: reusable components and API integration.
+- Developed Django endpoints for reservations, borrowing, and returns.
+- Collaborated on availability workflow management.
+
+---
+
+## 🎯 Personal Projects
+
+- **Building React Mini-Apps (in progress):** Developing a suite of exercises to master state management, props, data fetching, and more in React.
+
+---
+
+## 🌐 Languages
+
+- **Spanish:** Native
+- **English:** Intermediate
+- **Italian:** Basic (learning)
+
+---
+
+## 📫 Contact
+
+- 📧 genaro.flores.bustos1@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/genaro-flores)
