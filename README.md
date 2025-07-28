@@ -2,7 +2,7 @@
 
 🔭 I'm in my final semester of Computer Engineering in Santiago, Chile, and I love transforming challenges into simple, practical solutions. I’m seeking remote or hybrid internship opportunities where I can keep learning, grow my skills, and contribute with enthusiasm.
 
-💼 When I'm not coding, you'll find me enjoying a good coffee alongside my and cats, my favorite productivity booster. (I love Dogs too!)
+☕ When I'm not coding, you'll find me enjoying a good coffee alongside my cats, my favorite productivity booster. (I love Dogs too! 🐶)
 
 ---
 
