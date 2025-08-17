@@ -1,38 +1,25 @@
 # 👋 Hi! I'm Genaro Flores
 
-🔭 I'm in my final semester of Computer Engineering in Santiago, Chile, and I love transforming challenges into simple, practical solutions. I’m seeking remote or hybrid internship opportunities where I can keep learning, grow my skills, and contribute with enthusiasm.
+🔭 I’m in my final semester of Computer Engineering in Santiago, Chile, currently completing a remote Full-Stack internship at Laureate. I’m also working on my capstone (titulación) project and learning React Native in parallel to bring it to life.  
 
 ☕ When I'm not coding, you'll find me enjoying a good coffee alongside my cats, my favorite productivity booster. (I love Dogs too! 🐶)
 
 ---
 
-## 🛠 Technical Skills
+## 🎯 Goals & Focus Areas
 
-- **Languages:** JavaScript · HTML · CSS · Python · Bash
-- **Frameworks/Libraries:** React · Node.js · Express · Django
-- **Databases:** PostgreSQL · PL/SQL · MongoDB
-- **Tools:** Git/GitHub · Webflow · Playwright (basic testing) · Selenium
+- 🤖 **Capstone Project (Full-Stack Developer)**  
+  Building “Project APT” — an OCR-powered system that captures, reads, and classifies expense receipts, then generates monthly summary reports per employee for accounting review. Key features:  
+  - Image upload & preprocessing  
+  - OCR integration (e.g., Tesseract) to extract RUT, date, amount, provider  
+  - Automated expense categorization  
+  - Exportable Excel/CSV reports  
 
----
+- 📱 **React Native Mobile UI**  
+  Learning to craft cross-platform interfaces that will complement the web dashboard of my capstone.  
 
-## 🚀 Key Experience
-
-### 🌐 Therapist Website (Freelance · 2025)
-- Implemented form with validation and data submission.
-- Optimized the front-end for readability and responsiveness.
-- Configured domain and deployment on Webflow.
-
-### 📚 Reservation Management App (Duoc UC · Internship 2024)
-- Frontend in React: reusable components and API integration.
-- Developed Django endpoints for reservations, borrowing, and returns.
-- Collaborated on availability workflow management.
-
----
-
-## 🎯 Personal Projects
-
-- **Building React Mini-Apps (in progress):** Developing a suite of exercises to master state management, props, data fetching, and more in React.
-
+- 🚀 **Continuous Learning**  
+  Deepening my expertise in JavaScript ecosystems, OCR workflows, and best practices in general :D.  
 ---
 
 ## 🌐 Languages
